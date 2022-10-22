@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/sciencophilic21" target="blank"><img src="https://img.shields.io/twitter/follow/sciencophilic21?logo=twitter&style=for-the-badge" alt="sciencophilic21" /></a> </p>
 
-- 🔭 I’m currently working on **Genetics and Astronomy Projects**
+- 🔭 I’m currently working on **AI/ML Powered Genetics and Exoplanet-Detection Projects**
 
 - 🌱 I’m currently learning **Bioinformatics, Deep Learning, Artificial Intelligence and Computer Vision**
 
