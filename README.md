@@ -5,7 +5,8 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/96770503/196157338-c44b61d9-7dc7-4687-b90e-c70400e490e2.jpeg" width="600px">
+  
+<img src="https://user-images.githubusercontent.com/96770503/197336213-522f2abd-b19a-44a1-b3b1-dadd2c3fb04b.jpeg" width="600px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshakhapur&label=Profile%20views&color=0e75b6&style=flat" alt="nshakhapur" /> </p>
