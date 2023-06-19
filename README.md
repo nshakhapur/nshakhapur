@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nidhi Shakhapur</h1>
-<h3 align="center">I am an aspiring Bioinformatician and AI/ML Engineer</h3>
+<h3 align="center">I am an aspiring AI/ML Researcher in Genetics and Space Technology</h3>
 
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/sciencophilic21" target="blank"><img src="https://img.shields.io/twitter/follow/sciencophilic21?logo=twitter&style=for-the-badge" alt="sciencophilic21" /></a> </p>
 
-- 🔭 I’m currently working on **AI/ML Powered Genetics and Exoplanet-Detection Projects**
+- 🔭 I’m currently working on **AI/ML Powered Genetics and Space Science Related Projects**
 
 - 🌱 I’m currently learning **Bioinformatics, Deep Learning, Artificial Intelligence and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning In Healthcare**
+- 👯 I’m looking to collaborate on **Artificial Intelligence related Research Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nshakhapur](https://github.com/nshakhapur)
 
