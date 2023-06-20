@@ -42,7 +42,6 @@
 
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshakhapur&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nshakhapur&" alt="nshakhapur" /></p>
-![Screenshot 2023-06-20 at 9 44 02 AM](https://github.com/nshakhapur/nshakhapur/assets/96770503/e528bc3c-d8b5-4447-b966-50391c41fac6)
 
 
 
