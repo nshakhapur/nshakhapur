@@ -6,7 +6,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/96770503/197336213-522f2abd-b19a-44a1-b3b1-dadd2c3fb04b.jpeg" width="600px">
+<img src="https://github.com/nshakhapur/nshakhapur/assets/96770503/09ad7f94-ab3a-4a0c-b290-9dafb83e1c2f" width="600px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshakhapur&label=Profile%20views&color=0e75b6&style=flat" alt="nshakhapur" /> </p>
@@ -43,6 +43,7 @@
 ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshakhapur&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nshakhapur&" alt="nshakhapur" /></p>
 
+![Screenshot 2023-06-20 at 9 44 02 AM]()
 
 
 
