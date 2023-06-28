@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **AI/ML Powered Genetics and Space Science Related Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing,Neural Networks Based and Generative Models**
+- 🌱 I’m currently learning **Deep Learning, Natural Language Processing,Neural Networks and Generator Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nshakhapur](https://github.com/nshakhapur)
 
