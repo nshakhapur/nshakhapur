@@ -17,15 +17,13 @@
 
 - 🔭 I’m currently working on **AI/ML Powered Genetics and Space Science Related Projects**
 
-- 🌱 I’m currently learning **Bioinformatics, Deep Learning, Artificial Intelligence and Computer Vision**
-
-- 👯 I’m looking to collaborate on **Artificial Intelligence related Research Projects**
+- 🌱 I’m currently learning **Deep Learning, Natural Language Processing,Neural Networks Based and Generative Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nshakhapur](https://github.com/nshakhapur)
 
 - 📫 How to reach me **nshakhapur@gmail.com**
 
-- ✨ My Hobbies inlcude **Painting and sketching, especially on Astronomy.**
+- ✨ My Hobbies inlcude **Paintings based on Astronomy theme. Stargazing too because nature and science are interconnected ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
