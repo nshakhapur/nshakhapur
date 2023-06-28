@@ -21,8 +21,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nshakhapur](https://github.com/nshakhapur)
 
-- 📫 How to reach me **nshakhapur@gmail.com**
-
 - ✨ My Hobbies inlcude **Paintings based on Astronomy theme. Stargazing too because nature and science are interconnected ;)**
 
 <h3 align="left">Connect with me:</h3>
