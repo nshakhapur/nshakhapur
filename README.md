@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nidhi Shakhapur</h1>
 <h3 align="center">I am an aspiring AI/ML Researcher in Genetics and Space Technology</h3>
 
