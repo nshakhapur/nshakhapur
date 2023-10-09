@@ -112,6 +112,17 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nshakhapur&theme=react-dark"/>
 </div>
 
+## Badges 
+
+### Google Cloud Fundamentals 
+<img width="263" align="left" alt="Screenshot 2023-10-09 at 9 18 41 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/e7ddb4d4-75d6-4cc4-95b4-51bad6f8a073">
+<img width="263" align="center" alt="Screenshot 2023-10-09 at 9 18 36 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/51f2f84d-0c61-4a35-8a1a-3d30228b3d91">
+<img width="263" align="left" alt="Screenshot 2023-10-09 at 9 18 32 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/6dc14670-5035-457f-b851-1bb501e9dd97">
+<img width="263" align="center" alt="Screenshot 2023-10-09 at 9 18 28 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/3923f382-2629-4dce-ae2c-c8cd9de84821">
+
+### Amazon Web Services (AWS) cloud Foundations
+
+<img width="263" alt="Screenshot 2023-10-09 at 10 48 44 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/025019ac-cb3e-4d36-806e-c074a93f1bee">
 
 
 
