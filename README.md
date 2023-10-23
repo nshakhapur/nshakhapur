@@ -124,6 +124,12 @@
 
 <img width="263" alt="Screenshot 2023-10-09 at 10 48 44 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/025019ac-cb3e-4d36-806e-c074a93f1bee">
 
+### Google Generative AI Foundations
+<img width="263" alt="Screenshot 2023-10-23 at 7 59 09 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/eddd1425-ecae-4bfc-9bfc-ecb830c331e8">
+<img width="263" alt="Screenshot 2023-10-23 at 7 58 55 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/57f9c108-2408-4c7f-a138-c631b89c2f22">
+<img width="263" alt="Screenshot 2023-10-23 at 7 58 43 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/9db2a628-8c54-4895-a9df-6ad4a5799d26">
+<img width="265" alt="Screenshot 2023-10-23 at 7 58 38 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/f46e4878-e5df-4379-87e1-56e11355c801">
+<img width="263" alt="Screenshot 2023-10-23 at 7 58 34 AM" src="https://github.com/nshakhapur/nshakhapur/assets/96770503/7b2e6d2a-7244-4984-8fa8-b1dbbafc017e">
 
 
 
