@@ -20,6 +20,8 @@
 
 - ✨ My Hobbies inlcude **Paintings based on Astronomy theme. Stargazing too because nature and science are interconnected ;)**
 
+- ⚛️⚛ My Website: **https://nshakhapur.github.io/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sciencophilic21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sciencophilic21" height="30" width="40" /></a>
