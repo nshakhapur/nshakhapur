@@ -20,7 +20,7 @@
 
 - ✨ My Hobbies inlcude **Paintings based on Astronomy theme. Stargazing too because nature and science are interconnected ;)**
 
-- ⚛️⚛ My Website: **https://nshakhapur.github.io/**
+- ⚛️My Website: **https://nshakhapur.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
